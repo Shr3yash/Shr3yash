@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DrCybernotix
-- 👀 I’m interested in Data Structures and Algorithms
-- 🌱 I’m currently learning Algorithms
-- 💞️ I’m looking to collaborate on DSA Projects
+- 👋 Hi, I’m Shreyash.
+- 👀 I’m interested in Algorithms, Problem Solving, Data Visualisation & Processing.
+- 🌱 I’m currently learning Algorithms.
+- 💞️ I’m looking to collaborate on DSA Projects.
 - 📫 How to reach me : shreyash.bhatkar19@vit.edu
 
 <!---
