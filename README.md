@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shreyash.
 - 👀 I’m interested in Algorithms, Problem Solving, Data Visualisation & Processing.
 - 🌱 I’m currently learning Algorithms.
-- 💞️ I’m looking to collaborate on DSA Projects.
+- 💞️ I’m looking to collaborate on Cryptography(Rust/Python)SA Projects.
 - 📫 How to reach me : 12shreyashh@gmail.com
 
 <!---
