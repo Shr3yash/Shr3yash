@@ -2,7 +2,7 @@
 - 👀 I’m interested in Algorithms, Problem Solving, Data Visualisation & Processing.
 - 🌱 I’m currently learning Algorithms.
 - 💞️ I’m looking to collaborate on DSA Projects.
-- 📫 How to reach me : shreyash.bhatkar19@vit.edu
+- 📫 How to reach me : 12shreyashh@gmail.com
 
 <!---
 DrCybernotix/DrCybernotix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
