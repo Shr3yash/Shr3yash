@@ -5,7 +5,7 @@
 - 📫 How to reach me : 12shreyashh@gmail.com
 
 
-![Shreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrCybernotix&show_icons=true&theme=synthwave)
+![Shreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrCybernotix&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrCybernotix&layout=compact)
 
 
