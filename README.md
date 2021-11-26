@@ -6,7 +6,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrCybernotix&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrCybernotix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrCybernotix&layout=compact)]
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DrCybernotix&layout=compact)]
 
 <!---
 DrCybernotix/DrCybernotix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
