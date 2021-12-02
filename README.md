@@ -4,13 +4,20 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/DrCybernotix/DrCybernotix/blob/main/text%20(1).gif" alt="Welcome!" width="300"/>
+<img src="https://github.com/DrCybernotix/DrCybernotix/blob/main/text%20(3).gif" alt="Welcome!" width="300"/>
 
 </div>
 
 <div align="center">
 
-You have finally discovered my Github profile. <br>
+You have finally discovered my Github profile. 
+- 👋 Hi, I’m Shreyash.
+- 👀 I’m interested in Algorithms, Problem Solving, Data Visualisation & Processing.
+- 🌱 I’m currently learning Algorithms.
+- 💞️ I’m looking to collaborate on Cryptography(Rust/Python)SA Projects.
+- 📫 How to reach me : 12shreyashh@gmail.com
+
+<br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/DrCybernotix/DrCybernotix/issues/new"><b>here</b></a><br>
 or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
