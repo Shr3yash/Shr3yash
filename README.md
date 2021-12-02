@@ -18,9 +18,13 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
 <i>Happy Coding!</i> 😊
 
 </div>
+
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrCybernotix&layout=compact)
-</div>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrCybernotix&layout=compact" alt="Doc's Github Stats">
+
+ 
+</br>
 
 <div align="center">
 
