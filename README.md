@@ -26,12 +26,12 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
 
 </div>
 
-<div align="center">
+<--<div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrCybernotix&layout=compact" alt="Doc's Github Stats">
 
  
-</br>
+</br>-->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
