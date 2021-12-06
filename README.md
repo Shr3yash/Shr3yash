@@ -11,7 +11,7 @@
 <div align="center">
 
 As you have finally discovered this Git,  
- 👋 I’m Shreyash.
+ 👾 I’m Shreyash.
  👀 I’m interested in Algorithms, Puzzles, Data Visualisation & Processing, Chess, ML/AI & Psychology.
  🌱 I’m currently learning Elex.
  💞️ I’m looking to collaborate on Cryptography(Rust/Python)SA Projects.
