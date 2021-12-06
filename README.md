@@ -10,7 +10,7 @@
 
 <div align="center">
 
-You have finally discovered my Github profile. 
+As you have finally discovered this Git,  
  👋 I’m Shreyash.
  👀 I’m interested in Algorithms, Problem Solving, Data Visualisation & Processing.
  🌱 I’m currently learning Algorithms.
