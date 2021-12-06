@@ -44,8 +44,8 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
 
 
 </br>
-<i>Random dev joke for you! </i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<i>Pinning that pun? </i><br>
+<a href=""><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
 [![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/DrCybernotix/DrCybernotix)
