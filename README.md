@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/DrCybernotix/DrCybernotix/blob/main/text%20(3).gif" alt="Welcome!" />
+<img src="https://github.com/DrCybernotix/DrCybernotix/blob/main/welcome.gif" alt="Welcome!" />
 
 </div>
 
