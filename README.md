@@ -66,6 +66,11 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
 
 </div>
 
+<p>
+  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=DrCybernotix&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C"></a>
+</p>
+
+
 <!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​]https://in.linkedin.com/in/shreyash-bhatkar-5bb904194) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/shrysh_/?hl=en) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/kt7q53j04mdp3pofxam53f045?si=69dD1Y2hRQiv9Mzli4TFSA&utm_source=copy-link) -->
 
 <!--
