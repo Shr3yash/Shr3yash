@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Greetings, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Greetings, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> and viewers. <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 <div align="center" width="50">
