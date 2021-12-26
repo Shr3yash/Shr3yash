@@ -48,12 +48,9 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
 
 
 </br>
-
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <i>Pinning that pun? </i><br>
-</br>
 
-
-</br>
 <a href=""><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
