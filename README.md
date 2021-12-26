@@ -75,11 +75,11 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
 
 <p>
   <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=DrCybernotix&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C"></a>
- 
+ ----
  <img align="left" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=DrCybernotix&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C" alt="streaks" width="450"/>
 </p>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+
 
 <!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​]https://in.linkedin.com/in/shreyash-bhatkar-5bb904194) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/shrysh_/?hl=en) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/kt7q53j04mdp3pofxam53f045?si=69dD1Y2hRQiv9Mzli4TFSA&utm_source=copy-link) -->
 
