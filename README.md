@@ -72,9 +72,10 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
 <a href="https://dev.to/DrCybernotix" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+
 <p>
   <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=DrCybernotix&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C"></a>
+ <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
  <img align="left" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=DrCybernotix&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C" alt="streaks" width="450"/>
 </p>
