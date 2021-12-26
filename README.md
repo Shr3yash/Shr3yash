@@ -53,7 +53,7 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
 
 <a href=""><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
----
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 [![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/DrCybernotix/DrCybernotix)
 
 <i>Follow me around the web:</i><br>
