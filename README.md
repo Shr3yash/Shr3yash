@@ -75,6 +75,7 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
 
 <p>
   <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=DrCybernotix&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C"></a>
+ <img align="left" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=DrCybernotix&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C" alt="streaks" width="450"/>
 </p>
 
