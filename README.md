@@ -79,6 +79,8 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
  <img align="left" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=DrCybernotix&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C" alt="streaks" width="450"/>
 </p>
+
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
