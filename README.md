@@ -53,9 +53,9 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
 ## ⚡ Technologies
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=TensorFlow)
 ![scikit-learn](https://img.shields.io/badge/scikit-learn-black?style=flat-square&logo=scikit-learn)
- ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+ ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=Keras)
+![OpenCV](https://img.shields.io/badge/opencv-black?style=flat-square&logo=opencv)
+![OpenGL](https://img.shields.io/badge/OpenGL-black?style=flat-square&logo=opengl)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
