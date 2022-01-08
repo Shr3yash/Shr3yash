@@ -56,7 +56,7 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
  ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=Keras)
 ![OpenCV](https://img.shields.io/badge/opencv-black?style=flat-square&logo=opencv)
 ![OpenGL](https://img.shields.io/badge/OpenGL-black?style=flat-square&logo=opengl)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-black?style=flat-square&logo=npm&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
