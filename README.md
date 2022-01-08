@@ -70,7 +70,7 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
 ![Pandas](https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas&logoColor=white)
 	![NumPy](https://img.shields.io/badge/numpy-black?style=flat-square&logo=numpy&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=C++)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
