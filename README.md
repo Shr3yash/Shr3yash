@@ -30,11 +30,11 @@ As you have discovered my GitHub Profile,
 
 
 <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/DrCybernotix/DrCybernotix/issues/new"><b>here</b></a><br>
 or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
 
-<i>Happy Coding!</i> 😊
+<i>Happy Coding!🙂</i>
 
 <!--</div>
 
@@ -107,15 +107,16 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 <!-- <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> -->
-<i>Pinning that pun? </i><br>
+
+<!-- <i>A nice API featuring the puns </i><br>
 
 <a href=""><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
+ -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 [![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/DrCybernotix/DrCybernotix)
 
-<i>Follow me around the web:</i><br>
+<i>Connect around the web:</i><br>
 
   <!-- <a target="_blank" href="https://www.linkedin.com/in/absphreak/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
   <a target="_blank" href="https://www.instagram.com/shrysh_/?hl=en">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
