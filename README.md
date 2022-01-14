@@ -3,11 +3,16 @@
 <!--<h2> Greetings, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> and viewers. <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>-->
 </div>
 
-<div align="center" width="50">
+<!-- <div align="center" width="50">
 
-<!-- <img src="https://github.com/DrCybernotix/DrCybernotix/blob/main/welcome.gif" alt="Welcome!" /> -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237A7ADB&lines=Hi%2C+I'm+Shreyash%F0%9F%91%8B;B.Tech.+Undergrad;while+(indoubt);feel+free+to+PR)](https://git.io/typing-svg)
+<img src="https://github.com/DrCybernotix/DrCybernotix/blob/main/welcome.gif" alt="Welcome!" />
 
+
+</div> -->
+
+<div align = "center">
+	[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237A7ADB&lines=Hi%2C+I'm+Shreyash%F0%9F%91%8B;B.Tech.+Undergrad;while+(indoubt);feel+free+to+PR)](https://git.io/typing-svg)
+	
 </div>
 
 <div align="center">
