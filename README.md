@@ -10,11 +10,11 @@
 
 </div> -->
 
-<div>
+<p align="center">
 	
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237A7ADB&center=true&vCenter=true&&width=380&height=50"&lines=Hi%2C+I'm+Shreyash%F0%9F%91%8B;B.Tech.+Undergrad;while+(indoubt);feel+free+to+PR)](https://git.io/typing-svg)
 	
-</div>
+</p>
 
 <div align="center">
 
