@@ -13,14 +13,16 @@
 <p align="center">
 	
 											       
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sans-serif&color=%237A7ADB&size=39&center=true&vCenter=true&width=420&height=68&lines=Hi%2C+I'm+Shreyash%F0%9F%91%8B;B.Tech.+Undergrad;while+(indoubt);feel+free+to+PR">
+</p>
 															     
 	
 </p>
 
 <div align="center">
 
-As you have finally discovered this Git,  
+As you have discovered my GitHub Profile,  
  👾 About me,
  🔍 I’m interested in Algorithms, Puzzles, Cryptography & Processing, Chess, ML/AI & Psychology.
  🌳 I’m currently learning Elex.
