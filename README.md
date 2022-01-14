@@ -5,7 +5,8 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/DrCybernotix/DrCybernotix/blob/main/welcome.gif" alt="Welcome!" />
+<!-- <img src="https://github.com/DrCybernotix/DrCybernotix/blob/main/welcome.gif" alt="Welcome!" /> -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237A7ADB&lines=Hi%2C+I'm+Shreyash%F0%9F%91%8B;B.Tech.+Undergrad;while+(indoubt);feel+free+to+PR)](https://git.io/typing-svg)
 
 </div>
 
