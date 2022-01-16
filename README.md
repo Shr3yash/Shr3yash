@@ -40,7 +40,7 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shr3yash&layout=compact" alt="Doc's Github Stats">
+![Doc's GitHub stats](https://github-readme-stats.vercel.app/api?username=shr3yash&show_icons=true&theme=radical)
 
  
 </br>
