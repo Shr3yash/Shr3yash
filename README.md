@@ -113,7 +113,7 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
  -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/DrCybernotix/DrCybernotix)
+[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/Shr3yash/Shr3yash)
 
 <i>Connect around the web:</i><br>
 
@@ -127,12 +127,12 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
 <a href="https://www.instagram.com/shrysh_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/user/kt7q53j04mdp3pofxam53f045?si=69dD1Y2hRQiv9Mzli4TFSA&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/DrCybernotix" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://dev.to/Shr3yash" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
 
 <p>
-  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=DrCybernotix&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C"></a>
+  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=Shr3yash&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C"></a>
  ----
  <img align="left" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=DrCybernotix&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C" alt="streaks" width="450"/>
