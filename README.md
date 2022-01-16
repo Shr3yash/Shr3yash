@@ -14,7 +14,7 @@
 	
 											       
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sans-serif&color=%237A7ADB&size=39&center=true&vCenter=true&width=420&height=68&lines=Hi%2C+I'm+Shreyash%F0%9F%91%8B;B.Tech.+Undergrad;while+(indoubt);feel+free+to+PR">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sans-serif&color=%61DBFB&size=39&center=true&vCenter=true&width=420&height=68&lines=Hi%2C+I'm+Shreyash%F0%9F%91%8B;B.Tech.+Undergrad;while+(indoubt);feel+free+to+PR">
 </p>
 															     
 	
