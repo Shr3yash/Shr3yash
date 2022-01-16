@@ -54,14 +54,6 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
 
 <div align="center">
 
-
- 
-</br>
-
-
-</br>
-
-
 ## ⚡ Tech Stack
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=TensorFlow)
 ![scikit-learn](https://img.shields.io/badge/scikitlearn-black?style=flat-square&logo=scikitlearn)
@@ -134,19 +126,16 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
 </div>
 
 
-  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=Shr3yash&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C"></a>
+  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=Shr3yash&theme=react-dark"></a>
   
   
+  </br>
   <p>
 
 	
  <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 	
-	
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shr3yash&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
- <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shr3yash&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 	
 </p>
 
