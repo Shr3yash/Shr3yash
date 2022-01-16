@@ -40,18 +40,20 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
 
 <div align="center">
 
-![Doc's GitHub stats](https://github-readme-stats.vercel.app/api?username=shr3yash&show_icons=true&theme=radical)
+
 
  
 </br>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+
 </br>
 
 
+
 </br>
+
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shr3yash&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Doc's Github Stats">
 
  
 </br>
