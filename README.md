@@ -133,14 +133,22 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
 
 </div>
 
-<p>
+
   <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=Shr3yash&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C"></a>
- ----
- <img align="left" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Shr3yash&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C" alt="streaks" width="450"/>
+  
+  
+  <p>
+
+	
+ <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+	
+	
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shr3yash&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+ <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+	
 </p>
-
-
 
 
 <!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​]https://in.linkedin.com/in/shreyash-bhatkar-5bb904194) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/shrysh_/?hl=en) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/kt7q53j04mdp3pofxam53f045?si=69dD1Y2hRQiv9Mzli4TFSA&utm_source=copy-link) -->
