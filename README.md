@@ -61,7 +61,7 @@ or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
 </br>
 
 
-## ⚡ Technologies
+## ⚡ Tech Stack
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=TensorFlow)
 ![scikit-learn](https://img.shields.io/badge/scikitlearn-black?style=flat-square&logo=scikitlearn)
  ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=Keras)
