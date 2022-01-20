@@ -35,10 +35,12 @@ Ask me anything <a href="https://github.com/shr3yash/shr3yash/issues/new"><b>her
 or <a href="mailto:drcyb@outlook.com"><b>email</b></a> me
 
 <i>Happy Coding!🙂</i>
-
-Checkout These Projects :
 	
-
+<div align = "justify">
+	
+Checkout These Projects :
+	(updating..)
+	
 </div>
 
 <div align="center">
