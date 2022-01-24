@@ -131,7 +131,7 @@ Checkout These Projects :
 </div>
 
 
-  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=Shr3yash&theme=react-dark"></a>
+  <a href="https://activity-graph.herokuapp.com/graph?username=Shr3yash&theme=react-dark"><img src="https://activity-graph.herokuapp.com/graph?username=Shr3yash&theme=react-dark"></a>
   
   
   </br>
