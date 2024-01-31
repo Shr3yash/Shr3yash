@@ -6,7 +6,7 @@
 
  <div align="center" width="50">
 
-<img src="https://github.com/Shr3yash/Shr3yash/blob/main/welcome.gif" alt="Welcome!" />
+<!-- <img src="https://github.com/Shr3yash/Shr3yash/blob/main/welcome.gif" alt="Welcome!" /> -->
 
 
 </div> 
