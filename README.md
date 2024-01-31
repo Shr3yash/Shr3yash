@@ -1,10 +1,10 @@
-<!--
+
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <div align="center">
 <!--<h2> Greetings, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> and viewers. <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-<!-- <div align="center" width="50">
+ <div align="center" width="50">
 
 <img src="https://github.com/Shr3yash/Shr3yash/blob/main/welcome.gif" alt="Welcome!" />
 
@@ -23,10 +23,11 @@
 
 <div align="center">
 
-As you have discovered my GitHub Profile,  
+Hello!
+
  👾 About me,
  🔍 I’m interested in Algorithms, Puzzles, Cryptography & Processing, Chess, ML/AI & Psychology.
- 🌳 I’m currently learning Elex.
+ 🌳 ENTC Grad.
  🦸‍♂️ I’m looking to collaborate on Cryptography(Rust/Python)SA Projects.
 
 
