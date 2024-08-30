@@ -86,10 +86,10 @@
     <a href="https://in.linkedin.com/in/shreyash-bhatkar-5bb904194" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://twitter.com/BhatkarShreyash" target="_blank">
+    <a href="https://twitter.com/DrCybernotix" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
     </a>
-    <a href="https://www.instagram.com/shr3yash_/" target="_blank">
+    <a href="https://www.instagram.com/SHRYSH/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="https://open.spotify.com/user/31vqxxqgujcrhhjybwzfzvwjqzfg" target="_blank">
