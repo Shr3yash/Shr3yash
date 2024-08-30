@@ -6,7 +6,7 @@
   </h2>
   
   <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sans-serif&color=%61DBFB&size=39&center=true&vCenter=true&width=420&height=68&lines=Hi%2C+I'm+Shreyash%F0%9F%91%8B;B.Tech.+Undergrad;Currently+@+Oracle;DBX+OAP+Developer.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sans-serif&color=%61DBFB&size=39&center=true&vCenter=true&width=420&height=68&lines=Hi%2C+I'm+Shreyash%F0%9F%91%8B;Currently+@+Oracle;DBX+OAP+Developer;B.Tech.+Undergrad;">
   </p>
 </div>
 
@@ -77,11 +77,9 @@
   </p>
 
   <h3>📈 Contribution Graph</h3>
-  <p>
-    <a href="https://activity-graph.herokuapp.com/graph?username=Shr3yash&theme=react-dark">
-      <img src="https://activity-graph.herokuapp.com/graph?username=Shr3yash&theme=react-dark" alt="Contribution Graph">
-    </a>
-  </p>
+  
+![image](https://github.com/user-attachments/assets/cdc0186e-c35e-4ce5-b1f0-4da6ae5ece82)
+
 
   <h3>🌐 Connect with Me</h3>
   <p>
