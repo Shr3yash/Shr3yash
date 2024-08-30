@@ -14,7 +14,7 @@
   <h3>👾 About Me</h3>
   <p>
     🔍 I’m interested in Algorithms, Puzzles, Cryptography & Processing, Chess, ML/AI & Psychology.<br>
-    🌳 ENTC Grad.<br>
+    🌳 B.Tech. UG (E&TC) <br>
     🦸‍♂️ I’m looking to collaborate on Cryptography (Rust/Python) SA Projects.
   </p>
 
