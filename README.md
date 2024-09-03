@@ -73,7 +73,9 @@
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Shr3yash&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com?user=Shr3yash&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"> -->
+    ![image](https://github.com/user-attachments/assets/f4323807-972b-4638-b2ab-018049b0e0a4)
+
   </p>
 
   <h3>📈 Contribution Graph</h3>
