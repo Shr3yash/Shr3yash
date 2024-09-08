@@ -79,7 +79,7 @@
   <h3>📈 Contribution Graph</h3>
   
 ![image](https://github.com/user-attachments/assets/b5c2648a-af95-4543-9c34-88fd7cc2de41)
-![image](https://github.com/user-attachments/assets/cdc0186e-c35e-4ce5-b1f0-4da6ae5ece82)
+
 
 
 
