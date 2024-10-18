@@ -113,6 +113,9 @@
   <a href="https://in.linkedin.com/in/shreyash-bhatkar-5bb904194" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+    <a href="mailto:12shreyashh@gmail.com" target="_blank">
+    <img src=  "https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="GMail">
+  </a>
   <a href="https://twitter.com/DrCybernotix" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
   </a>
@@ -131,5 +134,5 @@
 
 <p align="center"><i>Happy Coding!</i></p>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Sans-serif&color=%61DBFB&size=39&center=true&vCenter=true&width=420&height=68&lines=Hi%2C+I'm+Shreyash;Currently+@+Oracle;DBX+OAP+Developer;B.Tech.+Undergrad;">
+<!--     <img src="https://readme-typing-svg.herokuapp.com?font=Sans-serif&color=%61DBFB&size=39&center=true&vCenter=true&width=420&height=68&lines=Hi%2C+I'm+Shreyash;Currently+@+Oracle;DBX+OAP+Developer;B.Tech.+Undergrad;"> -->
   </p>
