@@ -11,6 +11,7 @@
   <li>B.Tech. in Electronics and Telecommunication (E&TC).</li>
   <li>Currently working as a Developer (DBX OAP) at Oracle, where I focus on delivering efficient software solutions for international projects.</li>
   <li>Aspiring to collaborate on cryptography projects using Rust and Python within student associations.</li>
+  <li>Kings, queens, pawns and Python codes – I code by day and castle by night! Find me @ <a href="https://www.chess.com/member/jujutsucarlsen" target="_blank">Chess.com</a> | <a href="https://lichess.org/@/sndstrm" target="_blank">Lichess</a></li>
 </ul>
 
 <h3 align="center">Experience</h3>
