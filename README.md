@@ -9,7 +9,7 @@
 - **Java Developer (Batelco project) @ Oracle** – deliver high-throughput telco & retail software.  
 - **B.Tech. (E&TC)** – VIT Pune.  
 - Passionate about **algorithms • ML / CV • distributed systems • embedded AI • cryptography**.  
-- Kinda nerd for Chess: _kings, queens, pawns and Python codes_. Catch me on  
+- Chessmaxxing: _kings, queens, pawns and Python codes_. Catch me on  
   <a href="https://www.chess.com/member/jujutsucarlsen" target="_blank">Chess.com</a> | <a href="https://lichess.org/@/sndstrm" target="_blank">Lichess</a>.  
 - Always keen to hack on Rust- or Python-based crypto and edge-AI projects.
 
