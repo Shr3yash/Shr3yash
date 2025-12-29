@@ -1,45 +1,44 @@
 <div align="center">
 
-# Hello, Developers and Viewers! 👋  
+# Hi, I’m Shreyash 👋  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="banner" width="1000"/>
 
 </div>
 
 ## 🔎 About Me
-- **Java Developer (Batelco project) @ Oracle** – deliver high-throughput telco & retail software.  
-- **B.Tech. (E&TC)** – VIT Pune.  
-- Passionate about **algorithms • ML / CV • distributed systems • embedded AI • cryptography**.  
-- Chessmaxxing: _kings, queens, pawns and Python codes_. Catch me on  
-  <a href="https://www.chess.com/member/jujutsucarlsen" target="_blank">Chess.com</a> | <a href="https://lichess.org/@/sndstrm" target="_blank">Lichess</a>.  
-- Always keen to hack on Rust- or Python-based crypto and edge-AI projects.
+- Software developer with interests in **systems, ML/CV, and reliability**
+- B.Tech. (E&TC), VIT Pune
+- I enjoy building practical tools, debugging messy pipelines, and making software easier to operate
+- Chess: <a href="https://www.chess.com/member/jujutsucarlsen" target="_blank">Chess.com</a> | <a href="https://lichess.org/@/sndstrm" target="_blank">Lichess</a>
 
 ---
 
 ## 💼 Experience
 
 ### Oracle  
-**Java Developer (Batelco) & Associate Consultant** _Jul 2023 – Present_  
-- Developed ** BRM Opcodes** and **reusable APIs**, trimming backend.  
-- Added **OCI-Cosign signing & SBOM** checks to GitLab CI, hardening the software-supply chain.  
+**Associate Consultant / Software Developer** _Jul 2023 – Present_  
+- Worked on backend services and internal tooling for enterprise systems  
+- Built and maintained APIs and integrations; contributed to CI checks and developer workflows  
+- Collaborated with cross-functional teams on delivery, debugging, and production support  
 
 ### Nibha Tech Solutions  
-**AI Research Intern** _Dec 2022 – May 2023_  
-- Built **SARIMA + MACD** mutual-fund predictor (96 % normal / 76 % shock scenarios).  
-- Managed 15 GB/day data pipeline; explained model drift with **SHAP**.
+**Unpaid AI Research during bachelors** _Dec 2022 – May 2023_  
+- Explored time-series forecasting and feature engineering for finance-style datasets  
+- Implemented baseline models and evaluation workflows; documented experiments and findings  
 
 ---
 
-## 🛠️ Some Projects: (will be updating soon with more)
-| Year | Project | Highlights |
+## 🛠️ Projects (selected)
+| Year | Project | What it is |
 |------|---------|------------|
-| 2024 | **Performance-Prediction App** | Flask + K8s on OCI; parses 8 GB/h logs; 20 % resource gain & 15 % downtime drop |
-| 2022 | **Forest-Fire Detection RCNN** | 97 % accuracy, RTH index fusion; UAV + Pi deployment; **paper @ CSEE’22 Lisbon** |
-| 2021 | **Bus-Route Aid (CV)** | ORB/SIFT + OCR; 90 % accuracy on 6.5 k images |
-| 2020 | **Stun-Shoe (IoT + RL)** | Piezo energy, DQN/PPO tuning; Runner-up @ Engineering Design Contest |
+| 2024 | **Performance-Prediction App** | A tool to analyze logs/metrics and surface performance bottlenecks |
+| 2022 | **Forest-Fire Detection (CV)** | A computer-vision model to detect fire patterns in image/video frames |
+| 2021 | **Bus-Route Aid (CV)** | Vision + OCR prototype to assist with route identification |
+| 2020 | **Stun-Shoe (IoT + RL)** | A hardware + learning prototype exploring embedded decision-making |
 
 ---
 
-## 🧰 Tech Stack & Badges
+## 🧰 Tech Stack
 
 ### Programming Languages
 <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk&logoColor=white" />
@@ -55,7 +54,6 @@
 <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js" />
 <img src="https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss" />
-<img src="https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras" />
 <img src="https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow" />
 <img src="https://img.shields.io/badge/scikit--learn-black?style=flat-square&logo=scikitlearn" />
 <img src="https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv" />
@@ -74,37 +72,23 @@
 <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab" />
 
 ### Tools
-<img src="https://img.shields.io/badge/Vim-black?style=flat-square&logo=vim" />
 <img src="https://img.shields.io/badge/Prometheus-black?style=flat-square&logo=prometheus" />
 <img src="https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana" />
 <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi" />
-
-### Version Control
-<img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" />
-<img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab" />
-<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket" />
 
 ---
 
 ## 🤝 Connect
 <p align="center">
-  <a href="https://in.linkedin.com/in/shreyash-bhatkar-5bb904194" target="_blank">
+  <a href="https://www.linkedin.com/in/shr3yash/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:12shreyashh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="GMail">
-  </a>
-  <a href="https://twitter.com/DrCybernotix" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://open.spotify.com/user/31vqxxqgujcrhhjybwzfzvwjqzfg" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-%231DB954.svg?style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
 ---
 
 ### 🙌 How to reach me
-Clone / fork anything, open issues, or drop a line via [GitHub Issues](https://github.com/shr3yash/shr3yash/issues/new) or <a href="mailto:drcyb@outlook.com">email</a>.  
-<i>Happy Coding!</i>
+Open an issue on a repo or email me if you’d like to connect.
