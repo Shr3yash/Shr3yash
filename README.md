@@ -7,7 +7,8 @@
 
 ## 🔎 About Me
 - Software developer with interests in **systems, ML/CV, and reliability**
-- B.Tech. (E&TC), VIT Pune
+- Master's in Computer Science at University of Illinois - Urbana Champaign
+- B.Tech. (E&TC), VIT.
 - I enjoy building practical tools, debugging messy pipelines, and making software easier to operate
 - Chess: <a href="https://www.chess.com/member/jujutsucarlsen" target="_blank">Chess.com</a> | <a href="https://lichess.org/@/sndstrm" target="_blank">Lichess</a>
 
@@ -19,10 +20,10 @@
 **Associate Consultant / Software Developer** _Jul 2023 – Present_  
 - Worked on backend services and internal tooling for enterprise systems  
 - Built and maintained APIs and integrations; contributed to CI checks and developer workflows  
-- Collaborated with cross-functional teams on delivery, debugging, and production support  
+- Collaborated with cross-functional teams on delivery, debugging, and production support
 
 ### Nibha Tech Solutions  
-**Unpaid AI Research during bachelors** _Dec 2022 – May 2023_  
+**AI Research during bachelors** _Dec 2022 – May 2023_  
 - Explored time-series forecasting and feature engineering for finance-style datasets  
 - Implemented baseline models and evaluation workflows; documented experiments and findings  
 
