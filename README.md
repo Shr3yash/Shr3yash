@@ -1,6 +1,6 @@
 # Shreyash Bhatkar
 
-**Systems and ML infrastructure.** I work on the layer where distributed systems meet machine learning — inference runtimes, multi-GPU training, and the backend services that keep both honest in production.
+**Systems and ML infrastructure.** I work on the layer where distributed systems meet machine learning; inference runtimes, multi-GPU training, and the backend services that keep both honest in production.
 
 Currently a graduate researcher at **SSAIL (Supercomputing Systems & AI Lab)** at UIUC, working on agentic RL systems and LLM inference. Previously **2.5 years at Oracle** building telecom billing infrastructure that moved 10M+ transactions a day.
 
