@@ -1,83 +1,86 @@
 # Shreyash Bhatkar
 
-**Systems and ML infrastructure.** I work on the layer where distributed systems meet machine learning; inference runtimes, multi-GPU training, and the backend services that keep both honest in production.
+MCS @ UIUC (GPA 4.0). Graduate researcher at SSAIL under Prof. Minjia Zhang. Before that, ~2.5 years at Oracle on telecom billing systems that handled 10M+ transactions a day.
 
-Currently a graduate researcher at **SSAIL (Supercomputing Systems & AI Lab)** at UIUC, working on agentic RL systems and LLM inference. Previously **2.5 years at Oracle** building telecom billing infrastructure that moved 10M+ transactions a day.
+I spend most of my time on LLM serving and RL post-training infra: speculative decode correctness, LoRA/weight-sync edge cases, and the places where train and serve disagree under load.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shr3yash)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://shr3yash.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhatkar3@illinois.edu)
+[LinkedIn](https://linkedin.com/in/shr3yash) · [Portfolio](https://shr3yash.github.io) · [bhatkar3@illinois.edu](mailto:bhatkar3@illinois.edu)
 
 ---
 
-## What I'm working on
+## Right now
 
-**Distributed RL post-training @ SSAIL** — Running GRPO post-training for agentic coding models across NCSA DeltaAI and AWS, with SWE-Bench Verified evaluation in persistent Docker sandboxes. Recent work: traced a reproducible NCCL weight-synchronization hang through controlled topology tests, and found an asymmetric GPU allocation hiding behind an apparent 3.8× framework speedup.
+**SSAIL** — GRPO post-training for agentic coding models on NCSA DeltaAI and AWS, with SWE-Bench Verified eval in Docker sandboxes. Recent debugging: an NCCL weight-sync hang that only showed up under certain topologies, and a fake 3.8× "speedup" that was really asymmetric GPU allocation.
 
-**LLM inference optimization** — Continuous batching, PagedAttention, KV-cache profiling, and adaptive decoding strategies. Mostly interested in the gap between a benchmark number and what actually happens under concurrent load.
+**Upstream contributions** (vLLM, SGLang, verl) — correctness fixes on the serving/RL path:
+- vLLM: reject chat turns the Jinja template silently drops instead of returning 200 with a truncated prompt
+- vLLM: Model Runner V2 LoRA + speculative decode (logits / lm_head row alignment)
+- vLLM: skip plain draft speculation past an independent draft model's `max_model_len` instead of CUDA-IMA'ing
+- verl: FSDP hybrid-engine sleep/wake sync for merged LoRA (level-1 path)
+- SGLang: Falcon-H1 tied LM-head — avoid in-place `.float()` on the shared head
 
 ---
 
 ## Selected projects
 
-### [Distributed LLM Inference Engine](https://github.com/Shr3yash)
-`Python` `CUDA` `PyTorch` `vLLM` `Ray Serve`
+### Distributed LLM inference
+`Python` · `CUDA` · `PyTorch` · `vLLM` · `Ray Serve`
 
-Continuous batching and PagedAttention for Llama-3-8B serving. **2.4× throughput** over naive batching with **P99 under 800ms** at 100+ concurrent requests. Multi-GPU Ray Serve deployment with CUDA and KV-cache profiling cut peak GPU memory **22%**.
+Continuous batching + PagedAttention for Llama-3-8B. About **2.4×** throughput vs naive batching, P99 under **800ms** at 100+ concurrent requests. Multi-GPU Ray Serve with CUDA/KV profiling cut peak GPU memory ~**22%**.
 
-### [Adaptive LLM Inference Runtime](https://github.com/Shr3yash)
-`Python` `PyTorch` `vLLM` `Model Evaluation`
+### Adaptive decoding runtime
+`Python` · `PyTorch` · `vLLM`
 
-Decoding runtime that routes between single- and multi-token generation using entropy, probability margin, and n-best agreement signals. **2.3× fewer decoding steps**, **28% lower** long-form latency. Batched LLM-as-judge evaluation took the experiment loop from 90s to 3.3s per sample.
+Routes between single- and multi-token generation using entropy, margin, and n-best agreement. ~**2.3×** fewer decoding steps and ~**28%** lower long-form latency in the setups I measured. Batched LLM-as-judge cut the eval loop from ~90s to ~3.3s per sample.
 
-### [Scalable Distributed File System (ScDFS)](https://github.com/Shr3yash)
-`C++` `Cassandra` `PostgreSQL` `Multithreading`
+### ScDFS (distributed file system)
+`C++` · `Cassandra` · `PostgreSQL`
 
-Consistent hashing with 3× replication and node-recovery protocols, built to hold availability and replica consistency across simulated failures. Multithreaded hash-ring lookups and indexed metadata cut query latency **40%**.
+Consistent hashing, 3× replication, recovery under simulated node failure. Indexed metadata + multithreaded ring lookups cut query latency ~**40%** in that setup.
 
-### [Synchronized Code Editor](https://github.com/Shr3yash)
-`TypeScript` `React` `Node.js` `WebSockets` `WebRTC` `Redis`
+### Synchronized code editor
+`TypeScript` · `React` · `Node` · `WebSockets` · `Redis`
 
-Real-time collaborative editor using conflict-safe operational transforms. **Sub-100ms sync latency**, load-tested to **300+ concurrent users** at 99.9% uptime, with Jest coverage for the disconnect and concurrent-edit paths that break these systems in practice.
+OT-based collab editor. Sub-100ms sync in testing, load-tested past 300 concurrent users. Tests focused on disconnect and concurrent-edit paths.
 
-### [Real-Time Fraud Detection Pipeline](https://github.com/Shr3yash)
-`Python` `PySpark` `Kafka` `MLflow` `Docker`
+### Fraud detection pipeline
+`Python` · `PySpark` · `Kafka` · `MLflow`
 
-Streaming ETL and ML scoring at **10K+ transactions/sec** with sub-second risk decisions per micro-batch and MLflow experiment tracking.
+Streaming ETL + scoring at 10K+ txn/sec with sub-second micro-batch decisions.
 
 ---
 
 ## Stack
 
-**Languages** — Python · C++ · Java · Go · Kotlin · TypeScript · Rust · SQL
+**Languages** — Python, C++, Java, Go, Kotlin, TypeScript, Rust, SQL
 
-**ML & Inference** — PyTorch · vLLM · SGLang · TRL/GRPO · FSDP2 · CUDA · Ray · TensorRT-LLM · quantization · LangChain · FAISS
+**ML / inference** — PyTorch, vLLM, SGLang, TRL/GRPO, FSDP2, CUDA, Ray, TensorRT-LLM
 
-**Backend & Distributed** — Spring Boot · FastAPI · Node.js · React · gRPC · REST · GraphQL · Kafka · Redis · PostgreSQL · Cassandra
+**Backend** — Spring Boot, FastAPI, Node, gRPC, Kafka, Redis, Postgres, Cassandra
 
-**Infrastructure** — AWS · GCP · OCI · Kubernetes · Docker · Terraform · Airflow · Spark · Slurm/HPC · Prometheus · Grafana · CI/CD
+**Infra** — AWS, GCP, OCI, K8s, Docker, Terraform, Slurm/HPC, Prometheus, Grafana
 
 ---
 
 ## Experience
 
-**Oracle** — Software Engineer (Associate Consultant), Jul 2023 – Jan 2026
-Client engagements: Batelco Telecom, PPC Retail
+**Oracle** — Associate Consultant, Jul 2023 – Jan 2026 (Batelco Telecom, PPC Retail)
 
-Built 8 Java/Kotlin microservices and 20+ REST APIs for subscription, billing, and account-lifecycle workflows processing **10M+ daily transactions** at **99.95% correctness** under concurrent load. Traced gRPC HTTP/2 stream exhaustion through Prometheus and tuned Istio connection pools for **37% higher throughput** and **12% lower P95**. Led a 4-person team building a LangChain + Cohere documentation assistant used by **500+ engineers**, cutting hallucinations 41%.
+Eight Java/Kotlin microservices and 20+ REST APIs for subscription/billing/account flows at 10M+ daily transactions. Tracked down gRPC HTTP/2 stream exhaustion via Prometheus and retuned Istio pools (~37% higher throughput, ~12% lower P95 in that engagement). Led a 4-person team on a LangChain + Cohere docs assistant used by 500+ engineers.
 
 **Nibha Tech Solutions** — AI Research Intern, Dec 2022 – May 2023
 
-Engineered 30,000+ features from 25 years of market data across 15GB+ datasets; SARIMA forecasting with SHAP attribution reached **96.2% accuracy** in normal conditions, 76% under stress-test simulation.
+Feature engineering on 15GB+ / 25 years of market data; SARIMA + SHAP for forecasting under normal and stress regimes.
 
 ---
 
 ## Education
 
-**University of Illinois Urbana-Champaign** — Master of Computer Science, GPA 4.0/4.0
-**Vishwakarma Institute of Technology, Pune** — B.Tech, Electronics & Telecommunication, CGPA 8.82/10
+**UIUC** — MCS, GPA 4.0/4.0
 
-**Certifications** — Oracle Certified Generative AI Professional · Oracle Certified Data Science Professional · Oracle Certified Machine Learning (Autonomous Database)
+**VIT Pune** — B.Tech Electronics & Telecommunication, CGPA 8.82/10
+
+Oracle certs: Generative AI Professional, Data Science Professional, Machine Learning (Autonomous Database).
 
 ---
 
@@ -85,4 +88,4 @@ Engineered 30,000+ features from 25 years of market data across 15GB+ datasets; 
 
 Chess ([chess.com](https://www.chess.com/member/jujutsucarlsen) · [lichess](https://lichess.org/@/sndstrm)), powerlifting, cooking, drawing.
 
-Open an issue or email me if you'd like to talk about inference systems, distributed training, or anything above.
+Email or open an issue if you want to talk about serving systems, RL infra, or anything above.
