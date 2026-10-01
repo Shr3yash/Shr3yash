@@ -64,7 +64,7 @@ Streaming ETL + scoring at 10K+ txn/sec with sub-second micro-batch decisions.
 
 ## Experience
 
-**Oracle** — Associate Consultant, Jul 2023 – Jan 2026 (Batelco Telecom, PPC Retail)
+**Oracle** — Software Engineer, Associate Consultant, Jul 2023 – Jan 2026 (Batelco Telecom, PPC Retail)
 
 Eight Java/Kotlin microservices and 20+ REST APIs for subscription/billing/account flows at 10M+ daily transactions. Tracked down gRPC HTTP/2 stream exhaustion via Prometheus and retuned Istio pools (~37% higher throughput, ~12% lower P95 in that engagement). Led a 4-person team on a LangChain + Cohere docs assistant used by 500+ engineers.
 
